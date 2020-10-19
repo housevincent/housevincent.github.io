@@ -4,16 +4,17 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-# About the House
+### About the House
 
-```
 A casa apresenta 12 quartos, sendo 8 para solteiros  e 4 para casal. Uma cozinha compartilhada e 4 banheiros. Além disso, apresenta vagas para carro.
-```
-# Localização
 
-```
+### Localização
+
+
 A casa apresenta uma ótima localização, está situada na principal avenida, London Road, a qual supermercado, Mc Donalds, posto de Gasolina entre outros.
-```
+
+
+
 
 [Link to another page](./another-page.html).
 
@@ -115,14 +116,14 @@ end
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Endereço</dt>
+<dd>146 London Road</dd>
+<dt>Zip code</dt>
+<dd>xxxxxxxxxx</dd>
+<dt>City</dt>
+<dd>East Grinstead</dd>
+<dt>Land Lord</dt>
+<dd>Vincent P. Ingino</dd>
 </dl>
 
 ```
