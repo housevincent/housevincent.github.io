@@ -4,6 +4,17 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+# About the House
+
+```
+A casa apresenta 12 quartos, sendo 8 para solteiros  e 4 para casal. Uma cozinha compartilhada e 4 banheiros. Além disso, apresenta vagas para carro.
+```
+# Localização
+
+```
+A casa apresenta uma ótima localização, está situada na principal avenida, London Road, a qual supermercado, Mc Donalds, posto de Gasolina entre outros.
+```
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
